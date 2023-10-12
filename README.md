@@ -26,6 +26,13 @@ Upon clicking 'Finish,' I was prompted if I wanted to replace the data in the co
 **For the last sheet, I had to highlight employees whose names begin with the letter E in yellow and format the salary column such that the highest salary has a green background, and the lowest salary has a red background**
 
 Firstly, I choose the 'Employee Name' column. Afterward, I navigated to the 'Conditional Formatting' menu and clicked on 'Highlight Cell Rules.' From there, I selected 'More Rules.'
+
+**EXCEL TASK 2**
+
+**For this particular assignment, we received a financial dataset from a company. This dataset comprises 700 rows of data with 16 different columns**
+
+
+
 I proceeded to modify the rule description to specify that only cells containing text commencing with 'E' should be formatted, and I assigned the color yellow for this formatting.
 Subsequently, I organized the 'Salary' column in descending order, arranging it from the largest to the smallest values. Lastly, I applied the 'Green-Yellow-Red' color scale in the 'Conditional Formatting' options to emphasize the salary range
 
