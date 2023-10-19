@@ -1,6 +1,4 @@
-# Data Analysis - Training Tasks
-
-EXCEL TASK 1
+# ABC Solutions Employee's HR Data
 
 **For this task, we were required to create a table with 20 rows of information having the fields: Employee ID, Employee Full Name, Department, Salary and Job type**.
 
